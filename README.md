@@ -1,7 +1,7 @@
 <a href="#"> <p align="center"> <img width="100%" height="auto" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczFqcHNnbDZqNzh2bmZsa3liYnVlOXl6ZDEwOXBnMzRsZmx6ZXkyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NE7d3UAuxLHrFVEAbW/giphy.gif"/> </p> </a>
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Cortezano</h1>
-<h3 align="center">Web Developer | Aspiring Block chain developer & Video Editor</h3>
+<h3 align="center">Web Developer | Aspiring Blockchain developer & Video Editor</h3>
 
 
 <h1>About Me!!</h1>
