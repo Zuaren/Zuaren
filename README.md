@@ -46,7 +46,6 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/cortezano/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href = "https://www.facebook.com/jakecortezano.05/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 <a href = "https://www.instagram.com/cortezano_0/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
 </p>
 
